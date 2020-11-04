@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [eMenu](https://github.com/ChristianStefaniw/eMenuSuite)
 
-- 🌱 I’m currently learning **Machine Learning and Blockchain**
+- 🌱 I’m currently learning **Tensorflow and Blockchain**
 
 - 👯 I’m looking to collaborate on [MarkSpace](https://github.com/ChristianStefaniw/MarkSpace)
 
