@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [eMenu](https://github.com/ChristianStefaniw/eMenuSuite)
 
-- 🌱 I’m currently learning **Machine Learning and Blockchain**
+- 🌱 I’m currently learning Machine Learning and Blockchain
 
 - 👯 I’m looking to collaborate on [MarkSpace](https://github.com/ChristianStefaniw/MarkSpace)
 
-- 💬 Ask me about **Flutter, Dart, Django, Python, Java, and JavaScript**
+- 💬 Ask me about Flutter, Dart, Django, Python, and Java
 
 - 📫 How to reach me **christianstefaniw@gmail.com**
 
