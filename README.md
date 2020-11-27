@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **christianstefaniw@gmail.com**
 
-- 📄 Know about my experiences [https://docdro.id/hS4Cld0](https://bit.ly/35ZUGVs)
+- 📄 Know about my experiences [https://www.scribd.com/document/486097608/Resume-Christian-Stefaniw)
 
 
 <h3 align="left">Languages and Tools:</h3>
