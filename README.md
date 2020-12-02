@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **christianstefaniw@gmail.com**
 
-- 📄 Know about my experiences https://docdro.id/hS4Cld0
+- 📄 Know about my experiences https://bit.ly/33F2qM9
 
 
 <h3 align="left">Languages and Tools:</h3>
