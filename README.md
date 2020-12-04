@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Machine Learning and Blockchain
 
-- 👯 I’m looking to collaborate on [MarkSpace](https://github.com/ChristianStefaniw/MarkSpace)
+- 👯 I’m looking for internships
 
 - 💬 Ask me about Flutter, Dart, Django, Python, and Java
 
