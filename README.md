@@ -7,8 +7,6 @@
 
 - 👯 I’m looking for internships
 
-- 💬 Ask me about Flutter, Dart, Django, Python, and Java
-
 - 📫 How to reach me **christianstefaniw@gmail.com**
 
 - 📄 Know about my experiences https://bit.ly/33F2qM9
