@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MarkSpace](https://github.com/ChristianStefaniw/markspace)
 
-- 🌱 I’m currently learning Machine Learning and Blockchain
+- 🌱 I’m currently learning React
 
 - 👯 I’m looking for internships
 
