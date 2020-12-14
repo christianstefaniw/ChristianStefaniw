@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Stefaniw</h1>
-<h3 align="center">A passionate mobile and full stack developer from Canada</h3>
+<h3 align="center">A passionate mobile, backend, and full stack developer from Canada</h3>
 
 - 🔭 I’m currently working on [MarkSpace](https://github.com/ChristianStefaniw/markspace)
 
