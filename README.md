@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning React
 
+- 📚 I'm reading [Clean Code by Robert C. Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
 - 👯 I’m looking for internships
 
 - 📫 How to reach me **christianstefaniw@gmail.com**
