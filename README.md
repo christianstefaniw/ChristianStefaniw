@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MarkSpace](https://github.com/ChristianStefaniw/markspace)
 
-- 📚 I'm reading [Clean Code by Robert C. Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- 📚 I'm reading [The Go Programming Language by Alan A. A. Donovan & Brian W. Kernighan](https://www.gopl.io/)
 
 - 👯 I’m looking for internships
 
