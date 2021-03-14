@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Stefaniw</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 - 🔭 I’m currently working on [MarkSpace](https://github.com/ChristianStefaniw/markspace)
