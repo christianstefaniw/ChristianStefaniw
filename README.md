@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Canada</h3>  
 
 
-- 🔭 I’m currently working on [Safetynet](https://github.com/ben-christian-dev/safetynet-server)
+- 🔭 I’m currently working on [Foreox](https://github.com/foreox/server)
 
 - 📚 I'm reading [The Go Programming Language by Alan A. A. Donovan & Brian W. Kernighan](https://www.gopl.io/)
 
