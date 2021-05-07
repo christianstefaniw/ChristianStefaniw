@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Foreox](https://github.com/foreox/server)
 
-- 📚 I'm reading [The Go Programming Language by Alan A. A. Donovan & Brian W. Kernighan](https://www.gopl.io/)
+- 📚 I'm reading [The Rust Programming Language](https://nostarch.com/Rust2018)
 
 - 👯 I’m looking for internships
 
