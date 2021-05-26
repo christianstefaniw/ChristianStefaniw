@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Canada</h3>  
 
 
-- 🔭 I’m currently working on [devcord](https://github.com/devcordd/server)
+- 🔭 I’m currently working on [nonacoin](https://github.com/christianstefaniw/nonacoin)
 
 - 📚 I'm reading [The Rust Programming Language](https://nostarch.com/Rust2018)
 
