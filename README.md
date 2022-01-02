@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Canada</h3>  
 
 
-- 🔭 I’m currently working on [Educave](https://github.com/educaveapp)
+- 🔭 I’m currently working on University applications
 
 - 📚 I'm reading [The Rust Programming Language](https://nostarch.com/Rust2018)
 
