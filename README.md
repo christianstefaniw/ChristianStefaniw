@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **christianstefaniw@gmail.com**
 
-- 📄 Know about my experiences https://bit.ly/33F2qM9
+- 📄 Know about my experiences https://drive.google.com/file/d/1uDRwKFM37i86nbvoAlYWL-gqh2soFibT/view?usp=sharing
 
 
 <h3 align="left">Languages and Tools:</h3>
